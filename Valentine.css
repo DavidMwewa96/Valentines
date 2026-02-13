@@ -1,0 +1,11 @@
+.v-buttons
+{
+    width: auto;
+    height: 55px;
+    margin: 5px;
+    size: 20px;
+    white-space: nowrap;
+    text-align: center;
+    position: relative;
+    transition: all 0.1s ease-in-out;
+}
